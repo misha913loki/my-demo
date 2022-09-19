@@ -12,6 +12,6 @@ hello world！
 
 hello world！
 
-[标题1]（#标题1）
+[标题1](#标题1)
 
 # 标题1
