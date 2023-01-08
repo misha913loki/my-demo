@@ -8,3 +8,7 @@ _*_All this text is important_*_全部粗体和斜体
 
 
 The background color should be `#fffff3` for light mode and `#0969DA` for dark mode.
+
+This site was built using [GitHub Pages](https://pages.github.com/)
+
+
