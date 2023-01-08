@@ -39,7 +39,6 @@ hello world！
 
 456
 
-<!-- This content will not appear in the rendered Markdown -->
 
 Here is a simple footnote[^1].
 
@@ -53,5 +52,5 @@ You can also use words, to fit your writing style more closely[^note].
 [^note]:
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new
-<!-- This content will not appear in the rendered Markdown -->
+
 
