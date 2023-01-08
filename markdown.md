@@ -7,4 +7,4 @@ _*_All this text is important_*_全部粗体和斜体
 <sup>This is a superscript text</sup>上标文本
 
 
-The background color should be `#fffff3` for light mode and `#0d1117` for dark mode.
+The background color should be `#fffff3` for light mode and `#0969DA` for dark mode.
