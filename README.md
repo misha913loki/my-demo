@@ -18,6 +18,7 @@ sa
 ## emoji
 :joy:​
 :1234:​
+:exploding_head:
 
 # 前言
 啦啦啦啦啦
