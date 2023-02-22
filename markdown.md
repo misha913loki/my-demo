@@ -14,3 +14,12 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 ![tutu](doc/pefzp42dp4l.gif)
 
 
+$$
+\begin{cases}
+P(i,i)=true \\
+P(i,i+1)=(S_i==S_{i+1}) \\
+P(i,j)=P(i+1,j-1)∧(S_i==S_j)
+\end{cases}
+$$
+
+
