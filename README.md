@@ -1,5 +1,9 @@
+
+# my-demo11111111111111222
+
 [前言](#标题3)
 # my-demo11111111111111333
+
 my-demo1111111111111111111111
 2333333333
 33
@@ -15,9 +19,7 @@ my-demo1111111111111111111111
 21321,  
 sa
 
-## emoji
-:joy:​
-:1234:​
+
 :exploding_head:
 
 # 前言
@@ -29,11 +31,9 @@ sa
 
 hello world！
 
-hello world！
 
-[标题1](#标题1)
+4444
 
-# 标题1
 
 
 [doc/con](doc/con.md)
@@ -71,5 +71,3 @@ You can also use words, to fit your writing style more closely[^note].
 [^note]:
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new
-
-
